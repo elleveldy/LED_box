@@ -2,6 +2,10 @@
 
 Using [FastLED](https://github.com/FastLED/FastLED) library to control ws2812b LEDs.
 
+Connecting the Arduino Mega to the ws2812b LED strip:
+
+![alt text](https://cdn-learn.adafruit.com/assets/assets/000/030/892/medium640/leds_Wiring-Diagram.png "Arduino Mega to ws2812b LED strip")
+
 ## ArduinoMega
 Arduino code for making simple patterns. Not controlled by serial. 
 
