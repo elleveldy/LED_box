@@ -16,7 +16,7 @@ An extension of the above code, including listning to serial so a PC, the Pionee
 Arduino code for the nodeMCU ESP8266 (currently replaced by the Arduino Mega) developed by EiT.
 
 ## Other information
-If you have access trouble when updating code to your Arduino you have to chmod in terminal:
-'''
-sudo chmod 666 /dev/ttyACM0
-'''
+If you have access trouble when updating code to your Arduino within Linux, you have to set privlages in terminal:
+```
+$ sudo chmod 666 /dev/ttyACM0
+```
