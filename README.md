@@ -1,6 +1,6 @@
 # LED_box
 
-Using [FastLED](http://fastled.io/) library to control ws2812b LEDs.
+Using [FastLED](https://github.com/FastLED/FastLED) library to control ws2812b LEDs.
 
 ## ArduinoMega
 Arduino code for making simple patterns. Not controlled by serial. 
