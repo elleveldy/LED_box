@@ -22,7 +22,4 @@ If you have access trouble when updating code to your Arduino within Linux, you 
 $ sudo chmod 666 /dev/ttyACM0
 ```
 ### Connecting to MEA server
-The [MEAME](https://github.com/PeterAaser/MEAME) server running on the Windows machine at Øya communicates directly with the MultichannelSystems MEA2100 hardware. There is currently no API for this server, so the user must get familier with the code.
-
-Hierarchy: Program.cs (main) -> MeaForm.cs -> MeaInterfaces.cs -> TcpServer.cs  
-Dependency: [McsUsbNet.dll](http://www.multichannelsystems.com/software/mcsusbnetdll)
+See [MEAclient](https://github.com/thentnucyborg/MEAclient)
