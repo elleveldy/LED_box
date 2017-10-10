@@ -30,4 +30,4 @@ Convert either raw voltage data or spike data into light shows with the LEDs. E.
 _Note: A database is currently under development which will store all data in .hdf5 format for easy access and usage._  
 
 ### Streaming data from the MEA server
-See [MEAclient](https://github.com/thentnucyborg/MEAclient)
+To be implemented. A MEA client must be developed to aquire the live datastream from an MEA server. See [MEAclient](https://github.com/thentnucyborg/MEAclient).
